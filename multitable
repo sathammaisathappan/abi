@@ -1,0 +1,4 @@
+
+Multiplication_table
+n=int(input())
+for i in range(1,11):
